@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="food_menu.xsl"?>
+<menu>
+	<food>
+		<starter>
+			<name>Soup of the Day</name>
+			<price>£3.99</price>
+			<description>Served with croutons and a bread roll.
+			</description>
+		</starter>
+		<starter>
+			<name>Prawn Cocktail</name>
+			<price>£4.99</price>
+			<description>Prawns in seafood sauce with fresh salad and a bread roll.
+			</description>
+		</starter>
+		<starter>
+			<name>Garlic Bread</name>
+			<price>£2.99</price>
+			<description>Garlic Ciabatta baked fresh daily.
+			</description>
+		</starter>
+		<starter>
+			<name>Ceasar Salad</name>
+			<price>£2.99</price>
+			<description>Fresh salad with croutons.
+			</description>
+		</starter>
+		<starter>
+			<name>Breaded Mushrooms</name>
+			<price>£3.99</price>
+			<description>Served with salad and dips.
+			</description>
+		</starter>
+		<starter>
+			<name>Mozzarella Sticks</name>
+			<price>£4.99</price>
+			<description>Fried Mozzarella sticks served with salad and dips.
+			</description>
+		</starter>
+		<main>
+			<name>Bacon Burger</name>
+			<price>£7.99</price>
+			<description>Served with chips and salad. 
+			</description>
+		</main>
+		<main>
+			<name>Fried Chicken</name>
+			<price>£7.99</price>
+			<description>Served with chips and peas. 
+			</description>
+		</main>
+		<main>
+			<name>Spaghetti and Meatballs</name>
+			<price>£6.99</price>
+			<description>Served with our delicious pasta sauce. 
+			</description>
+		</main>
+		<main>
+			<name>Pizza</name>
+			<price>£9.99</price>
+			<description>A choice of toppings, both meat and vegetarian. 
+			</description>
+		</main>
+		<main>
+			<name>Breaded King Prawns</name>
+			<price>£8.99</price>
+			<description>Served with chips, peas and dip.
+			</description>
+		</main>
+		<main>
+			<name>All Day Breakfast</name>
+			<price>£6.99</price>
+			<description>Sausage, Bacon, Eggs, Fried Tomato and Toast.
+			</description>
+		</main>
+		<main>
+			<name>Fish and Chips</name>
+			<price>£6.99</price>
+			<description>Fresh battered cod served with peas or mushy peas.
+			</description>
+		</main>
+		<main>
+			<name>Steak and Ale Pie</name>
+			<price>£7.99</price>
+			<description>Served with chips, peas and gravy.
+			</description>
+		</main>
+		<dessert>
+			<name>Sticky Toffee Pudding</name>
+			<price>£2.99</price>
+			<description>Served with Custard.
+			</description>
+		</dessert>
+		<dessert>
+			<name>Cheesecake</name>
+			<price>£2.99</price>
+			<description>Homemade Cheesecake served with Cream or Ice Cream.
+			</description>
+		</dessert>
+		<dessert>
+			<name>Chocolate Cake</name>
+			<price>£2.99</price>
+			<description>Homemade Chocolate Cake served with Cream or Ice Cream.
+			</description>
+		</dessert>
+		<dessert>
+			<name>Pancakes with Strawberries</name>
+			<price>£2.99</price>
+			<description>Freshly cooked pancakes with Strawberry Jam and fresh Strawberries.
+			</description>
+		</dessert>
+		<dessert>
+			<name>Ice Cream</name>
+			<price>£2.99</price>
+			<description>A selection of Vanilla, Chocolate and Strawberry Ice Creams.
+			</description>
+		</dessert>
+	</food>
+	<drink>
+		<name>Bottle of Wine</name>
+		<price>£9.99</price>
+		<description>A selection of White, Red and Rose wines.
+		</description>
+	</drink>
+	<drink>
+		<name>Bottled Water</name>
+		<price>£1.99</price>
+		<description>Still or Sparkling.
+		</description>
+	</drink>
+	<drink>
+		<name>Kronenbourg</name>
+		<price>£3.70</price>
+		<description>Premium lager from France.
+		</description>
+	</drink>
+	<drink>
+		<name>Lemonade</name>
+		<price>£1.49</price>
+		<description>Served with Ice and a slice of Lemon.
+		</description>
+	</drink>
+	<drink>
+		<name>John Smiths</name>
+		<price>£2.90</price>
+		<description>Creamy bitter.
+		</description>
+	</drink>
+	<drink>
+		<name>Selection of Spirits</name>
+		<price>£3.00</price>
+		<description>With or without mixers. Ask for a daily selection.
+		</description>
+	</drink>
+	<drink>
+		<name>Fosters</name>
+		<price>£3.20</price>
+		<description>Refreshing lager.
+		</description>
+	</drink>
+	<drink>
+		<name>Old Rosie Cider</name>
+		<price>£3.75</price>
+		<description>Cloudy scrumpy.
+		</description>
+	</drink>
+	<drink>
+		<name>Guinness</name>
+		<price>£3.50</price>
+		<description>The classic Irish Stout.
+		</description>
+	</drink>
+	<drink>
+		<name>Coca Cola</name>
+		<price>£1.49</price>
+		<description>Served with Ice and a slice of Lemon.
+		</description>
+	</drink>
+</menu>
